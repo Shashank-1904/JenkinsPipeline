@@ -3,6 +3,6 @@ public class Demo {
     {
         System.out.println("Jenkins Deafaulter Riya");
 
-        System.out.println("Hello Sir")
+        System.out.println("Hello Sir");
     }
 }
